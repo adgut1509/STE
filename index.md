@@ -16,4 +16,4 @@
 
 • Search for more advice **online**. Probably there are many articles and forum threads about how to deal with an unresponsive SME.
 
-• Remind the SME that cooperating with you is an important part of the process of product development and part of their job. Do it <ins>only</ins> if the situation is helpless, though!
+• Remind the SME that cooperating with you is an important part of the process of product development and part of their job. Do it *only* if the situation is helpless, though!
