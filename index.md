@@ -1,4 +1,4 @@
-<h2>Tips on how to better communicate with an SME:</h2>
+# Tips on how to better communicate with an SME:
 
 • Be **specific** when asking the SME for information. Clearly state the information you want to get and the time of the meeting (you can provide alternatives so that they have more options).
 
