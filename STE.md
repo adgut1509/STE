@@ -10,13 +10,16 @@
 
 • Use further **psychological tricks** to establish a better relationship with them. Ask them for a small favor first so that later they feel obliged to help you again.
 
-• Use your **soft skills**. Be: 
-* empathetic
-* communicative
-* charismatic.
+• Use your **soft skills**. Be:
+
+- empathetic
+- communicative
+- charismatic.
 
 • **Ask** your co-workers or other SMEs how they deal with that.
 
 • Search for more advice **online**. There are many articles and forum threads about how to deal with an unresponsive SME.
 
 • Remind the SME that cooperating with you is an important part of the process of product development and part of their job. Do it <ins>only</ins> as a last resort.
+
+This is ridiculous addition
